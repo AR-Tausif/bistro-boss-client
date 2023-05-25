@@ -40,13 +40,13 @@ const Footer = () => {
                                 <label htmlFor="UserEmail" className="sr-only"> Email </label>
 
                                 <div
-                                    className="border border-gray-100 p-2 focus-within:ring sm:flex sm:items-center sm:gap-4"
+                                    className="border border-gray-100 p-2 sm:flex sm:items-center sm:gap-4"
                                 >
                                     <input
                                         type="email"
                                         id="UserEmail"
                                         placeholder="john@rhcp.com"
-                                        className="w-full border-none focus:border-transparent focus:ring-transparent sm:text-sm"
+                                        className="w-full border-none focus:border-transparent sm:text-sm"
                                     />
 
                                     <button
